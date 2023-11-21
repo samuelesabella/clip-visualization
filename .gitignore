@@ -1,0 +1,14 @@
+data/
+
+# editors
+**/.vscode
+**/.idea/
+**/.pdb-pyhist
+
+# notebooks
+**/*.ipynb_checkpoints
+
+# Python
+**/.env
+**/.python-version
+**/__pycache__
